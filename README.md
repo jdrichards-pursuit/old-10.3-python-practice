@@ -10,7 +10,7 @@ Before you start, make sure you create your virtual environment.
 python3 -m venv .venv
 source .venv/bin/activate
 ```
-Choose 'yes' when prompted to include the venv in your workspace.
+Choose 'yes' when prompted to include the `venv` in your workspace.
 
-Remember to choose install when prompted to install the `ipykernel` package.
+Remember to choose `Install` when prompted to install the `ipykernel` package.
 
