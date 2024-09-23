@@ -14,3 +14,6 @@ Choose 'yes' when prompted to include the `venv` in your workspace.
 
 Remember to choose `Install` when prompted to install the `ipykernel` package.
 
+Now you can choose each set of exercises from the sidebar based on the concepts you want to practice.
+
+Good luck!
