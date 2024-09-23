@@ -1,4 +1,8 @@
-# Skill Sharpening Python - Part 1
+## Test Your Knowledge
+
+
+### Complete the following exercises to test your knowledge of what you've just learned.
+When necessary, use the [Lesson](https://github.com/jdrichards-pursuit/week-3.1-python-basics) as a reference.
 
 <img src = './assets/sharpening.webp' alt = 'sharpening' width = '50%'/>
 
